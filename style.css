@@ -254,5 +254,12 @@ ul {
   list-style: none;
 }
 
-@media (max-wd9) {
-}
+/* @media screen and (max-width: 390px) {
+  #image_cover {
+    width: 100%;
+    min-height: 100vh;
+    background-size: cover;
+    position: relative;
+    background-image: url(img/Image_section.png);
+  }
+} */
